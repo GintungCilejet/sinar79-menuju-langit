@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://sinar79-menuju-langit.netlify.app/",
+      "permanent": true
+    }
+  ]
+}
